@@ -9,6 +9,8 @@ verify_ssl = true
 request = "*"
 requests = "*"
 gunicorn = "*"
+flask = "*"
+flask-sqlalchemy = "*"
 
 [requires]
 python_version = "3.8"
